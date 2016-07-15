@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Odalis\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_76b8009e4e7a8f375d68be736aa439f5181b5413\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Odalis\.gradle\caches\modules-2\files-2.1\com.sun.mail\android-mail\1.5.5\53a2f927b235acb565dbe9314ececfb7e6d43020\android-mail-1.5.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="53a2f927b235acb565dbe9314ececfb7e6d43020">
+        <dex dex="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-mail-1.5.5_2def02467b75191ad2e60b9129306c7160bd48e1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dd7676ac12aa6653718b7ea33d93ce9d6915d526">
+        <dex dex="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.2.0_b4089b8bd62165dbc4bcd52bc5cbb9671d9e5d44\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Odalis\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_95808bca8f98877e847edff8d785fcae26177b9c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Odalis\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_035f9c3ef8746b98a59a9a853c759256639d262f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Odalis\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_191f304713167467dbf041ef1c84e580cd129a32\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\exploded-aar\com.mikhaellopez\circularimageview\3.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikhaellopez-circularimageview-3.0.2_bbb5d2e0bcbcb03eb4f46cd8392c21ef6ac1a3df\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4838df6db988160b107e954e02a745370df543b6">
+        <dex dex="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.2.0_7ed534c8f9f7d80d7c3fc53541b99e202f67bd3c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_64d40c0316889c30101d56717c64cab27c239b9d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_db1066a9c3aab111154162fa5eb4e9397c6c1d88\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fb15fd9774b5c51dcb39d8e6fa1b6f06bcd1cd34">
+        <dex dex="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.2.0_15880ec47af197552faf65614fb80c8daa34e0b2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_264bb1253ac93c3271d155c4852200dadd9e7c79\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_5687cbc86fca3d16dc928267c3e9c8b1ee0f1088\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Odalis\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_860d377d165e44ea364efedb63fa531340ddd2fc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e40f4174e6d62286ee605bfd6e95df8a0bc4426a">
+        <dex dex="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_00269f11624122c24941d102af41f52585fb31c8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_5f90ff10d677ac459c9671c9662028f9e9efa1d8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_f82f38f2084671b73484999a6283218bcb129449\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_153e93246d68f8e2026f87912c824e03b986a33c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Odalis\.gradle\caches\modules-2\files-2.1\com.sun.mail\android-activation\1.5.5\5442d5e05808145434b750c9f8a0c3f537383c5a\android-activation-1.5.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5442d5e05808145434b750c9f8a0c3f537383c5a">
+        <dex dex="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-activation-1.5.5_6111b8e293763189bcc3c55e036a00d0c06ed95e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_16782042d891ed85ca2e8fc8128696e3cb35daef\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dc4c18602ecffb3e69cda6cdc51ba4feac0f97d7">
+        <dex dex="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.2.0_538111dc65151b2a751277138748987c401be2db\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Odalis\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_b3224972f67678129e557e2a988595381bc02f3a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="198ce5884bdc3dc43879ae1a397455ee92fb2dea">
+        <dex dex="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9133343a567fe51e775ca51e92dd9236820e43d0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="593fbaec1c3e100480a2bd72457b64b7dde6ac2d">
+        <dex dex="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.2.0_0a1fceb735596e8e7da95c242217f326310044f0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="363f626ad5686283250cdb6073ae1bba5cb07a87">
+        <dex dex="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.2.0_e1ca84bf9d7c02e38775990ac00e6f854652428f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="21bb89120d84fa29afeb0f9c0ebf415bc3b45a7e">
+        <dex dex="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.2.0_fa516c63d307a99c5f8759c1f046ab20dd38f0e0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Odalis\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Odalis\Desktop\PetagramNotificacionMultipleAcciones\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_fb1f0706b67e57b5cfc6280f5e6289b803e37290\classes.dex" />
+    </item>
+
+</items>
